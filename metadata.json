@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Explore global financial markets with live quotes, interactive charts, stock and crypto screeners, heatmaps, technical indicators, and market news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
